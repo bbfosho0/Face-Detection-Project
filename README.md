@@ -1,2 +1,2 @@
 # Face Detection Project
- An algorithm that uses an xml file as a reference for face detection.
+ This algorithm uses an open-source haar cascade XML file from the OpenCV GitHub as a reference for face detection.
